@@ -24,7 +24,16 @@ margin-left: auto;
 margin-right: auto;
 }
 
-.page-nav {
+.table {
+    background-color: #fafafa;
+    border-radius: 5px;
+}
+
+.card-body .btn-dark{
+    background-color: rgb(74, 228, 131)
+}
+
+/*.page-nav {
     border: 1px solid rgb(4, 223, 4);
     background-color:rgb(74, 228, 131);
 }
@@ -42,27 +51,27 @@ margin-right: auto;
     background-repeat: no-repeat;
     background-size: cover;
     
-}
+}*/
 
 
 
 /* Position the navbar container inside the image */
-.container {
+/*.container {
     position: absolute;
     margin: 20px;
     width: auto;
-}
+}*/
 
 /* The navbar */
-.topnav {
+/*.topnav {
     overflow: hidden;
     background-color: rgb(255, 255, 255);
     border-radius:5px;
     
-}
+}*/
 
 /* Navbar links */
-.topnav a {
+/*.topnav a {
     float: left;
     color: #0b0b0b;
     text-align: center;
@@ -203,4 +212,4 @@ margin-right: auto;
 .pie-de-pagina .grupo2 small{
     font-size: 17px;
     
-}
+} */
